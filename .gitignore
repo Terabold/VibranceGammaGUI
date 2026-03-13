@@ -1,0 +1,12 @@
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+*.zip
+build_log.txt
+error_only.txt
+*.bak
+*.back
+*_utf8.cs
