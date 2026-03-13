@@ -1,0 +1,42 @@
+// This file contains the modernized UI layout structure for VibranceGUI
+// Proper spacing, padding, and visual hierarchy for 2025 design
+
+/*
+MODERN LAYOUT STRUCTURE:
+- Main Window: 700x800px
+- Padding: 16px all sides
+- Section spacing: 20px
+- Button height: 48px
+- Control margins: 8px
+
+SECTIONS:
+1. Header (140px)
+   - Title + Version
+   - Status indicator
+
+2. Vibrance Control (120px)
+   - Slider with label
+   - Value display
+
+3. Settings Panel (180px)
+   - Checkboxes with proper spacing
+   - Two columns layout
+
+4. Applications Panel (240px)
+   - List with scrollbar
+   - Three button row below
+
+5. Gamma Section (80px)
+   - Test button + status label
+
+6. Footer (40px)
+   - Status bar
+*/
+
+// Key Measurements:
+// Form: 700x800
+// Content margins: 16px
+// Section height unit: 20px
+// Button: 48px tall
+// GroupBox padding: 16px
+// Element spacing: 8-12px
